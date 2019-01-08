@@ -1,7 +1,7 @@
 body  {
 font-family: 'Lato', sans-serif;
 padding-top: 70px;
-color: #0066cc;
+color: #2366BD;
 }
 
 .jumbotron {
@@ -9,7 +9,7 @@ color: #0066cc;
 }
 
 .navbar-default {
-background-color: #0066cc;
+background-color: #2366BD;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -17,7 +17,16 @@ color: #eee;
 }
 
 .navbar-brand {
-font-size: 2.5rem;
+font-size: 2rem;
 font-weight: bold;
+}
+
+.a navbar-brand {
+color: white;
+}
+
+
+.footernotes {
+background-color: #2366BD;
 color: #eee;
 }
